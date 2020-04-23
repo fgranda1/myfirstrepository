@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+.container {
+  color: red; }
+  .container .row {
+    color: yellow; }
+    .container .row .col {
+      color: blue; }
+
+/*# sourceMappingURL=style.css.map */
